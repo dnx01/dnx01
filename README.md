@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BugsBunny</h1>
+<h1 align="center">Hi 👋, I'm dnz</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1091829597005422712/1095392251334635540/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.gif">
 
@@ -14,4 +14,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BugsBunny-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

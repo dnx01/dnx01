@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dnz</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1091829597005422712/1095392251334635540/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BugsBunny-01&label=Profile%20views&color=0e75b6&style=flat" alt="BugsBunny-01" /> </p>
 

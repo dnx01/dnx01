@@ -29,14 +29,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<br>
-
----
-[![](https://visitcount.itsvg.in/api?id=dnx01&icon=2&color=6)](https://visitcount.itsvg.in)
 
 

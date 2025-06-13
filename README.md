@@ -10,9 +10,10 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js, git, github, vscode, visualstudio, figma, tailwind, vite, react, nextjs, nodejs, npm, mongodb, netlify, discord, discordjs, lua, kali, ackoverflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,visualstudio,figma,tailwind,vite,react,nextjs,nodejs,npm,mongodb,netlify,discord,discordjs,lua,kali" />
   </a>
 </p>
+
 <br>
 
 

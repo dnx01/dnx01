@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Discord]
+[![Discord] (https://discord.com/users/923205829166006272)
 
 <br>
 

@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Discord] (https://discord.com/users/923205829166006272)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/923205829166006272)
 
 <br>
 

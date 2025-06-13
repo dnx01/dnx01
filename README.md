@@ -2,7 +2,7 @@
 👋 About Me<br>I'm a passionate Front-End Developer with over 3 years of experience crafting modern, responsive, and user-friendly web applications.<br>I specialize in React, Next.js, and modern front-end technologies that help transform complex ideas into clean, scalable, and high-performance digital products.<br><br>My development style focuses on aesthetic design, accessibility, and performance, always aiming to create seamless and engaging user experiences.<br>I care deeply about writing clean, maintainable code and continuously improving both design and functionality.<br><br>💡 In my spare time, I also enjoy building Discord bots, exploring new tools and APIs just for the fun of it.<br><br>🚀 Constantly learning, experimenting, and pushing the limits of front-end development.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/923205829166006272) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dnzcode) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/923205829166006272) [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dnzcode)
 
 <br>
 
